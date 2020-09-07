@@ -26,6 +26,7 @@
     <modules>
         <module>../provider</module>
         <module>../consumer</module>
+        <module>../gateway</module>
     </modules>
 
     <properties>
